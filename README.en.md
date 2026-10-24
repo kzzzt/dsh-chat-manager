@@ -17,6 +17,8 @@
 
 </div>
 
+> **Fork note**: this repository is a personal fork of upstream `v1.5.18`, adapted for DSH `0.2.1-rc.3`. See [FORK.md](FORK.md) for installing from this repo, verification results, and syncing with upstream.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/WSL043/dsh-chat-manager/main/docs/assets/hero.en.png" alt='DeepSeek Harness chat history and archived session manager with search, restore, and safe permanent deletion'>
 </p>

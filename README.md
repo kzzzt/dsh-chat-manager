@@ -17,6 +17,8 @@
 
 </div>
 
+> **Fork 说明**：本仓库是基于上游 `v1.5.18` 的个人 fork，已适配 DSH `0.2.1-rc.3`；从本仓库安装、验证结果与同步方式见 [FORK.md](FORK.md)。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/WSL043/dsh-chat-manager/main/docs/assets/hero.png" alt="DeepSeek Harness 聊天历史与归档会话管理器，支持搜索、恢复和安全永久删除">
 </p>
